@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Headphones",
+        "image": "1.jpg",
+        "price": 5000,
+        "rating": 4
+    },
+    {
+        "name": "Smart Watch",
+        "image": "2.jpg",
+        "price": 3000,
+        "rating": 3
+    },
+    {
+        "name": "Camera",
+        "image": "3.jpg",
+        "price": 45000,
+        "rating": 5
+    },
+    {
+        "name": "Analog Watch",
+        "image": "4.jpg",
+        "price": 7500,
+        "rating": 5
+    }
+]
